@@ -1,0 +1,10 @@
+{
+    "guild-ids": [
+        "925482326358638664"
+    ],
+    "no-pings-role-id": 1164270936225239163,
+    "replies": {
+        "ping_reply": "Please be aware of ping preferences and turn replies `@ OFF` for this member. See #guidelines to learn more about ping preferences and turning off pings in replies.",
+        "ping_no_reply": "You pinged one or more users who do not want to be pinged. Please be aware of ping preferences (see #guidelines)."
+    }
+}
